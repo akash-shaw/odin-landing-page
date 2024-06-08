@@ -57,9 +57,10 @@ header{
     margin-bottom: 16px;
 }
 button{
+    font-size: 18px;
     background-color: #3882f6;
     border: none;
     border-radius: 8px;
-    padding: 8px 24px;
+    padding: 12px 32px;
     color: #f9faf8;
 }

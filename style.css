@@ -149,3 +149,12 @@ button{
     padding: 8px 32px;
     border: 2px solid #f9faf8;
 }
+footer{
+    height: 88px;
+    background-color: #1f2937;
+    color: lightgray;
+    font-weight: ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
